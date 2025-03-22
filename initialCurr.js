@@ -11,7 +11,7 @@ export const basic_curriculum = {
         "ON DECK": {
             "technique": "Lock it up on Deck", 
             "belt": None,
-            "description": "Students line up on the designated 'Deck' area of the mat, standing in proper attention position.",
+            "description": "Students line up on the desfsignated 'Deck' area of the mat, standing in proper attention position.",
             "key_points": ["Stand in straight line", "Space evenly", "Hands at sides", "Quiet and attentive"],
             "common_mistakes": ["Standing too close to others", "Not maintaining line formation", "Talking"],
             "related_techniques": ["Lock it up on Password Wall", "Line Up!", "Locked up sir!"]
@@ -57,7 +57,7 @@ export const basic_curriculum = {
             "related_techniques": ["Set Stance", "Self Control", "Line Up!"]
         },
     },
-    "Fundamental Movements": {
+    "Solo Movements": {
         "Shrimping": {
             "technique": "Shrimping Movement", 
             "belt": None,
