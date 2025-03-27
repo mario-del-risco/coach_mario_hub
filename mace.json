@@ -1,0 +1,7 @@
+{ 
+{ "name": "Two Hand 360", "type":"movement", "initialCheckpoint": ["aural"], "exitCheckpoint": ["aural"]},
+{ "name": "Single Hand Side Front Swing", "type":"movement", "initialCheckpoint": ["side carry", "aural"], "exitCheckpoint": ["side carry", "aural"] },
+{ "name": "", "type":"", "initialCheckpoint": [""], "exitCheckpoint": [""] },
+
+{ "comment": "find way of mass messaging", "type": "comment", "relatedTo": "bjja optimizing" }
+}
