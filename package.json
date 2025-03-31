@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdfkit": "^0.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.13"
+  }
+}
